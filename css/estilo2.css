@@ -1,0 +1,20 @@
+div{
+    display: inline-block;
+}
+img#imagen{
+    vertical-align: middle;
+}
+p{
+    margin: 30px;
+}
+p.titulo{
+    text-align: center;
+}
+p#campo{
+    position: relative;
+    bottom: 40px;
+}
+input{
+    font-size: larger;
+    text-align: center;
+}
